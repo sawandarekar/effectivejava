@@ -9,6 +9,15 @@
 - Item 1: Consider static factory method instead of constructors
 - Item 2: Consider Builder when faced with many constructor parameters
 - Item 3: Enforce the singleton property with a private constructor or an `enum` type
-- Item 4: Enforce non noninstantiability with a private constructor
+- Item 4: Enforce non insatiability with a private constructor
 - Item 5: Prefer dependency injection to hardwiring resources
-   
+- Item 6: Avoid creating unnecessary objects e.g. `String s = new String("created first"); //DON'T DO THIS!`
+- Item 7: Eliminate obsolete object references. e.g. `OutOfMemoryError`
+
+
+GOTO -> page 26  
+  
+  
+  
+  
+  
