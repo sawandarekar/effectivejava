@@ -1,4 +1,4 @@
-package chapter2;
+package effectivejava.chapter2;
 
 /**
  * Autoboxing blurs but does not erase the distinction
