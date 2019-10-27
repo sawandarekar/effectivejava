@@ -1,8 +1,10 @@
-package effectivejava.chapter3;
+package chapter3;
 
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
+
+import chapter3.Item3HashCode;
 
 class Item3HashCodeTest {
 
